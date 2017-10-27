@@ -79,6 +79,11 @@ img, video, audio{
 
 
 /* LAYOUT */
+*{
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -mozz-box-sizing: border-box;
+}
 .wrapper{
   width: 960px;
   margin: 0 auto;
