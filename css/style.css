@@ -116,3 +116,10 @@ img, video, audio{
   height: 0;
   line-height: 0;
 }
+
+/* ECTIONS */
+
+section{
+  padding: 20px;
+  margin-bottom: 20px;
+}
